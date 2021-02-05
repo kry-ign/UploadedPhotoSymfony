@@ -103,6 +103,8 @@
       <path value="$PROJECT_DIR$/symfony/vendor/doctrine/orm" />
       <path value="$PROJECT_DIR$/symfony/vendor/egulias/email-validator" />
       <path value="$PROJECT_DIR$/symfony/vendor/composer" />
+      <path value="$PROJECT_DIR$/symfony/vendor/doctrine/doctrine-fixtures-bundle" />
+      <path value="$PROJECT_DIR$/symfony/vendor/doctrine/data-fixtures" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
