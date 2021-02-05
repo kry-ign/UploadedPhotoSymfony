@@ -107,6 +107,8 @@
       <excludeFolder url="file://$MODULE_DIR$/symfony/vendor/doctrine/orm" />
       <excludeFolder url="file://$MODULE_DIR$/symfony/vendor/egulias/email-validator" />
       <excludeFolder url="file://$MODULE_DIR$/symfony/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/symfony/vendor/doctrine/doctrine-fixtures-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/symfony/vendor/doctrine/data-fixtures" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
